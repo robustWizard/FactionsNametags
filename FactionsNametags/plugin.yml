@@ -1,0 +1,6 @@
+name:  FactionsNametags
+version:  1.7.9
+main:  com.me.pikachuman1.Main
+description:  Shows colored nametags (based on factions).
+author:  pikachuman1
+depend: [Factions, TagAPI]
